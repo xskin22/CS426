@@ -1,4 +1,4 @@
-# CS426
+# CS426 Assignment 1
 
 # Description 
 For this assignment I made a terrin of a forest as I like to travel and explore new areas I never been to before. The area is full of trees and grass that helps make it looks a forest. It has a big area to make it feel like a open world game.
